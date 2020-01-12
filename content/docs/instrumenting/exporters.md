@@ -69,6 +69,7 @@ wide variety of JVM-based applications, for example [Kafka](http://kafka.apache.
    * [Node/system metrics exporter](https://github.com/prometheus/node_exporter) (**official**)
    * [NVIDIA GPU exporter](https://github.com/mindprince/nvidia_gpu_prometheus_exporter)
    * [ProSAFE exporter](https://github.com/dalance/prosafe_exporter)
+   * [RTL_433 433MHz Sensor exporter](https://github.com/mhansen/rtl_433_prometheus)
    * [Ubiquiti UniFi exporter](https://github.com/mdlayher/unifi_exporter)
 
 ### Issue trackers and continuous integration
